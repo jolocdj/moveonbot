@@ -12,7 +12,7 @@ It gives smart, context-aware responses based on what you’re feeling, so it do
 - 🧠 Detects emotions like:
   - missing and wanting to get back with them
   - relapse urges
-  - sadness
+  - sadness and loneliness
   - loneliness
   - anger
 - 📝 Helps process **unsent messages**
