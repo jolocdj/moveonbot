@@ -25,7 +25,7 @@ It gives smart, context-aware responses based on what you’re feeling, so it do
 
 | Command | Description |
 |--------|-------------|
-| `/moveon` | Get a reminder to move forward |
+| `/moveon` | Get a reminder to move forward and never look back |
 | `/relapse` | Stop yourself from sending that message |
 | `/unsaidthoughts` | Share what you wanted to say (but didn’t) |
 | `/nocontact` | Track your no-contact days + feelings |
