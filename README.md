@@ -10,7 +10,7 @@ It gives smart, context-aware responses based on what you’re feeling, so it do
 
 - 💬 **Context-aware replies** (not just random).
 - 🧠 Detects emotions like:
-  - missing someone
+  - missing and wanting to get back with them
   - relapse urges
   - sadness
   - loneliness
