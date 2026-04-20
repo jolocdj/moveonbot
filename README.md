@@ -8,7 +8,7 @@ It gives smart, context-aware responses based on what you’re feeling, so it do
 
 ## Features
 
-- 💬 **Context-aware replies** (not just random)
+- 💬 **Context-aware replies** (not just random).
 - 🧠 Detects emotions like:
   - missing someone
   - relapse urges
