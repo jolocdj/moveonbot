@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
@@ -13,5 +13,13 @@
     "discord.js": "^14.26.3",
     "dotenv": "^17.4.2",
     "openai": "^6.34.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jolocdj/moveonbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jolocdj/moveonbot/issues"
+  },
+  "homepage": "https://github.com/jolocdj/moveonbot#readme"
 }
